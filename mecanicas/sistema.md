@@ -25,3 +25,8 @@
 ### Movimiento
 - [Explica si se usan dados, cartas, o si es completamente estratégico].
 - Las piezas no pueden atravesar otras piezas a menos que se especifique.
+
+## Tecnologías y Recursos Utilizados
+
+- [Opcional si el juego es digital: HTML, JS, motores de juego, etc.]
+- [En caso de versión física: cartulina, fichas, marcadores...]
