@@ -1,3 +1,15 @@
+# Sistema de Juego - Mensa Conquina
+
+## 📌 Descripción del Juego
+**Mensa Conquina** es un juego de estrategia y habilidad en el que los jugadores deben mover sus piezas en un tablero siguiendo reglas específicas con el objetivo de capturar las piezas del oponente o alcanzar una meta determinada.
+
+---
+
+## 🎯 Objetivo del Juego
+El objetivo principal es [especificar el objetivo, por ejemplo: capturar todas las piezas del oponente, llegar a una casilla meta, etc.]
+
+---
+
 ## 🎮 Reglas del Juego
 
 1. El juego se juega entre **[X] jugadores**.
@@ -18,7 +30,7 @@
 ### Turnos
 - Los turnos se realizan por ronda, comenzando por el jugador [criterio para definir quién inicia].
 - En cada turno, el jugador puede:
-  - Mover una pieza.
+ 
   - Realizar una acción especial (si aplica).
   - Pasar el turno (solo si no tiene movimientos legales).
 
