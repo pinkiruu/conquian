@@ -12,7 +12,6 @@
 <ul>
     <li>Ruben Jimenez</li>
     <li>Daniel Diaz</li>
-    <li>Yahir Garcia</li>
     <li>Brayan Rodrigay</li>
 </ul>
 
